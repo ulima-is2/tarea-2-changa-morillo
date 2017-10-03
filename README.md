@@ -17,3 +17,6 @@ Finalmente el último método cuya implementación falló es el de Interface seg
 
 #### Pregunta 2
 La resolución de la pregunta 2 se encuentra en el archivo patrones-resuelto.py. La sustentación de la aplicación de cada uno de los tres patrones se encuentra en los comentarios.
+
+#### Pregunta 3
+La resolución de la pregunta 3 se encuentra en el archivo patrones-sql.py.
