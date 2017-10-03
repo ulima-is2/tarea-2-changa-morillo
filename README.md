@@ -14,3 +14,6 @@ Uno de los principios que no se utilizó es el de Open/Closed, pues el código n
 Otro de los principios que no se utilizó es el de Liskov substitution. Ya que existen dos clases similares: CinePlaneta y CineStark. Que poseen métodos similares, cuando podrían tener una misma clase base que posea esos métodos para que no halla la necesidad de reimplementarlos.
 
 Finalmente el último método cuya implementación falló es el de Interface segregation. Ya que los métodos que se repiten en ambas clases (CinePlaneta y CineStark) podrían incluirse en una interfaz y utilizar dicha interfaz en las clases en lugar de definir los métodos en cada una de ellas.
+
+#### Pregunta 2
+La resolución de la pregunta 2 se encuentra en el archivo patrones-resuelto.py. La sustentación de la aplicación de cada uno de los tres patrones se encuentra en los comentarios.
